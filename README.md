@@ -3,10 +3,12 @@
 The goal of this project is to identify and explore interesting aspects of data in the image recognition processing.
 
 The project will consist of the following tasks:
-•	Analyzing data and selecting the model best suited to solve the problem.
-•	Implementing and optimizing algorithms.
-•	Using Python to perform computations and analyze the results.
-•	Creating a slide deck describing the process.
+
+|-
+  |-	Analyzing data and selecting the model best suited to solve the problem.
+  |-	Implementing and optimizing algorithms.
+  |-	Using Python to perform computations and analyze the results.
+  |-	Creating a slide deck describing the process.
 
 
 # Project Problem - Classification

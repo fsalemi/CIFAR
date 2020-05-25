@@ -4,12 +4,10 @@ The goal of this project is to identify and explore interesting aspects of data 
 
 The project will consist of the following tasks:
 
-|-
-  |-	Analyzing data and selecting the model best suited to solve the problem.
-  |-	Implementing and optimizing algorithms.
-  |-	Using Python to perform computations and analyze the results.
-  |-	Creating a slide deck describing the process.
-
+    |- Analyzing data and selecting the model best suited to solve the problem. 
+    |- Implementing and optimizing algorithms.
+    |- Using Python to perform computations and analyze the results.
+    |- Creating a slide deck describing the process.
 
 # Project Problem - Classification
 Given numerous images, I create an image recognition algorithm to accurately identify images and explore how these images are related. I Identify and discusse interesting aspects of the data and optimize an algorithm to correctly identify images with the lowest possible error rate.
